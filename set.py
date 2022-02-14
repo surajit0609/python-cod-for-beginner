@@ -1,0 +1,10 @@
+s=set()
+print(type(s))
+s1=set([12,3,4,6,9])
+#print(s1)
+#addd
+s1.add(1)
+#remove
+s1.remove(12)
+s1.union(12,3,4,6,9,66)
+print(s1)
