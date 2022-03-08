@@ -1,2 +1,2 @@
 from playsound import playsound
- playsound('F:\\music\\_Thoda_Aur__Lyrical___Ranchi_Diaries___Arijit_Singh___Palak_M__Jeet_G_Manoj_M___Soundarya_S_Himansh(128k).m4aplay.mp3')
+playsound('F:\music\(New Vs. Old Songs) Part 1 Vs. Part 2 __ Ft. Raj Barman , Deepshikha __ HD __ Music Addiction ( 256kbps cbr ).mp3')

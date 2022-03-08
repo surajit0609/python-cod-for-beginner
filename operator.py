@@ -47,3 +47,13 @@ print(a >= b)
 # a <= b is True
 print(a <= b)
 
+# logical operator(and, or ,not)
+a=34
+b=45
+c=56
+if a>b and b>c :
+    print("a is max")
+elif b>c and a>c :
+    print("b is max")
+else:
+    print("c is max")    

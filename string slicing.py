@@ -1,10 +1,8 @@
 mystr="surajit is a good programmer"
-
-
 print(mystr[3])
 print(mystr[0:10])
-print(mystr[:10])
-print(mystr[0:])
+print(mystr[:10]) #is same as mystr[0:10]
+print(mystr[0:]) #is same as mystr[0:28]
 print(len(mystr))
 print(mystr[0:7:3])
 print(mystr[::])
@@ -12,7 +10,7 @@ print(mystr[0:10])
 print(mystr[:])
 #negative slicing
 print(mystr[-5:-3]) 
-               #isalnum string
+#isalnum string
 a="surajit123"
 print(a.isalnum())
 b="sur 123"
